@@ -1,0 +1,15 @@
+# Ignore Python compiled files (the "junk" you don't need)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore local environment folders
+venv/
+env/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
