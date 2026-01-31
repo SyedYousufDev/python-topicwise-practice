@@ -10,8 +10,6 @@ fruits.append(f2)
 f3=input("Enter a fruit name: ")
 fruits.append(f3)
 
-f4=input("Enter a fruit name: ")
-fruits.append(f4)
-
 print("\"Names of the fruits are :\"")
+
 print(fruits)
