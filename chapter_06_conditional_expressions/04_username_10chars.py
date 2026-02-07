@@ -6,4 +6,4 @@ username=str(input("Enter Your Username Thank You."))
 if(len(username)<10):
   print("The Username You have entered have less than 10 Characters.Thank You")
 else: 
-  print("The Username You have entered donot have less than 10 Characters.Thank You") 
+  print("The Username You have entered donot have  than 10 Characters.Thank You") 
