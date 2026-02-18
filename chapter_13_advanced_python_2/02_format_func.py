@@ -1,5 +1,5 @@
 
-
+#using format func
 name = input("Enter name: ")
 marks = int(input("Enter marks: "))
 phone = int(input("Phone number: "))
